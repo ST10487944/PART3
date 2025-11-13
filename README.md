@@ -36,3 +36,5 @@ This project helped me practice:
 4. Made the app easier to use and understand
 
 # Demo video
+https://youtube.com/shorts/HwiL0HnrpmA?si=EOiV8wCQv7Y_x8eU
+
